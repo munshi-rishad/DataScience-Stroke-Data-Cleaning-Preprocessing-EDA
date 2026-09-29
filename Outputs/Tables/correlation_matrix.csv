@@ -1,0 +1,4 @@
+,age,avg_glucose_level,bmi
+age,1.0,0.2374,0.3122
+avg_glucose_level,0.2374,1.0,0.1669
+bmi,0.3122,0.1669,1.0
