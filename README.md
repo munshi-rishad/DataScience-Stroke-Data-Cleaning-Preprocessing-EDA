@@ -146,31 +146,3 @@ The complete academic report is available in:
 ```text
 Documentation/Stroke_Data_Cleaning_EDA_Report.pdf
 ```
-
-## Author
-
-**Najiat Islam Rishad**
-
-Computer Science & Engineering  
-American International University-Bangladesh (AIUB)
-
-GitHub: https://github.com/munshi-rishad
-
-## GitHub
-
-Repository name:
-
-```text
-DataScience-Stroke-Data-Cleaning-Preprocessing-EDA
-```
-
-Push the project:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/munshi-rishad/DataScience-Stroke-Data-Cleaning-Preprocessing-EDA.git
-git push -u origin main
-```
