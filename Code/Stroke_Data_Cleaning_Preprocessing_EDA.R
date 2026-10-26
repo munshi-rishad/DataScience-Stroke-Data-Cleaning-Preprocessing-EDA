@@ -3,7 +3,7 @@ library(readr)
 library(dplyr)
 
 # Import the Dataset
-stroke_data <- read_csv("DataSet/Stroke_Dataset_Dirty.csv")
+stroke_data <- read_csv(file.path("..", "DataSet", "Stroke_Dataset_Dirty.csv"))
 View(stroke_data)
 
 #..............................Dataset Understanding.............................................................
@@ -192,7 +192,7 @@ head(high_risk)
 #....................................Save Clean Dataset....................................
 
 # Save Cleaned Dataset as a new CSV file
-write_csv(stroke_data, "DataSet/Stroke_Dataset_Clean.csv")
+write_csv(stroke_data, file.path("..", "DataSet", "Stroke_Dataset_Clean.csv"))
 
 # Confirmation message
 cat("Clean dataset saved successfully!\n")
