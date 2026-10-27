@@ -5,6 +5,8 @@ and explores it with statistics and charts.
 
 Introduction to Data Science mid-term project, AIUB (Summer 2025-26, Section K, Group 04).
 
+**Semester:** Summer 2025-2026
+
 ## Features
 
 - Inspect the dataset: structure, summary and data types.
